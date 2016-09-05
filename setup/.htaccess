@@ -1,0 +1,18 @@
+RewriteEngine On
+Options +FollowSymlinks
+
+AddType text/n3 .n3
+
+AddType application/n-triples .nt
+AddType application/ld+json .jsonld
+AddType text/turtle .ttl
+
+RewriteRule ^(.+) /AnRDFBrowser/public/$1 [L]
+
+RewriteRule ^browser_assets/(.+) /AnRDFBrowser/public/browser_assets/$1 [L]
+
+RewriteRule ^resource/(.+) /AnRDFBrowser/public/resource/$1 [L]
+
+RewriteRule ^page/(.+) /AnRDFBrowser/public/page/$1 [L]
+
+RewriteRule ^data/(.+) /AnRDFBrowser/public/data/$1 [L]
