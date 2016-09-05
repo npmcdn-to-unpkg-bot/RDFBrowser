@@ -43,4 +43,4 @@ Enjoy your new Linked Data Application!!!
 
 #Quickstart & Shared Hosting
 
-You can choose the pre-built releases on [Pre-Built Realeses and Source Code](https://github.com/okgreece/RDFBrowser/releases/) if you want to quickstart your new app. Just extract the zipped files, change Endpoint AND User credentials and you are ready to go!
+You can choose the pre-built releases on [Pre-Built Realeses and Source Code](https://github.com/okgreece/RDFBrowser/releases/) if you want to quickstart your new app. Just extract the zipped files, change Endpoint AND User Login settings and you are ready to go!
