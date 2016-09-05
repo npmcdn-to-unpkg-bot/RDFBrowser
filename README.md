@@ -40,3 +40,7 @@ Remember to change these settings after first login.
 Then go to Endpoint section. It defaults to DBpedia SPARQL Endpoint as NON working example. You should change at least the URL of your Endpoint to reflect your configuration. 
 
 Enjoy your new Linked Data Application!!!
+
+#Quickstart & Shared Hosting
+
+You can choose the pre-built releases on [Pre-Built Realeses and Source Code](https://github.com/okgreece/RDFBrowser/releases/) if you want to quickstart your new app. Just extract the zipped files, change Endpoint AND User credentials and you are ready to go!
