@@ -1,7 +1,7 @@
 # RDFBrowser
 A Linked Data content negotiation and publication platform coded in PHP for consumer level applications.
 
-#Install instructions
+#Installation instructions
 This is an application developed with Laravel MVC PHP Framework. Follow these instructions to succesfully install the app.
 
 ```sh
